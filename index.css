@@ -48,6 +48,8 @@ div.top {
 }
 
 footer {
+	position: absolute;
+	bottom: 0;
 	color: #ffffff;
 	background-color: #035480;
 	text-align: center;
