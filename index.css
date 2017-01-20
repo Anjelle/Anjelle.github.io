@@ -44,11 +44,15 @@ h2 {
 
 div.top {
 	background-color: #035480;
-	margin: 10%;
+	padding: 10%;
 }
 
 footer {
 	color: #ffffff;
 	background-color: #035480;
 	text-align: center;
+}
+
+body {
+	background-color: black;
 }
