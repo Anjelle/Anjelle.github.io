@@ -42,17 +42,19 @@ h2 {
     background-color: #0095BD;
 }
 
-div.top {
+.top {
 	background-color: #035480;
 	padding: 10%;
+	height: 20%;
 }
 
-footer {
+.bottom {
 	position: absolute;
 	bottom: 0;
 	color: #ffffff;
 	background-color: #035480;
 	text-align: center;
+	height: 10%;
 }
 
 body {
