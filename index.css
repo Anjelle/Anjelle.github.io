@@ -31,23 +31,24 @@ h2 {
 	text-align: left;
 }
 
-.left {
-	position: absolute;
+div.left {
+	float: left;
+	right: ;
     margin: 5%;
     padding: 5%;
     width: 20%;
-    background-color: #00BDB4;
+    background-color: #0095BD;
 }
 
-.right {
-	position: absolute;
+div.right {
+	float: right;
     margin: 5%;
     padding: 5%;
     width: 20%;
-    background-color: #00BDB4;
+    background-color: #0095BD;
 }
 
-.top {
+div.top {
 	background-color: #035480;
 	margin: 10%;
 }
