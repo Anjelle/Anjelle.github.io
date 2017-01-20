@@ -1,8 +1,8 @@
 img {
 	display: block;
     margin: auto;
-    width: 10%;
-    height: 10%;
+    width: 20%;
+    height: 20%;
 }
 
 p {
@@ -28,7 +28,7 @@ h2 {
 
 .leftside {
 	float: left;
-    margin: 5%;
+    margin: 10%;
     padding: 5%;
     width: 20%;
     background-color: #00A7D3;
@@ -36,7 +36,7 @@ h2 {
 
 .rightside {
 	float: right;
-    margin: 5%;
+    margin: 10%;
     padding: 5%;
     width: 20%;
     background-color: #00A7D3;
