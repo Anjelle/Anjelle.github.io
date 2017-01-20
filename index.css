@@ -1,12 +1,12 @@
 img {
 	display: block;
     margin: auto;
-    width: 50%;
+    width: 20%;
+    height: 20%;
 }
 
 header {
 	color: #ffffff;
-	background-color: #035480;
 	text-align: center;
 }
 
@@ -15,11 +15,31 @@ p {
 	text-align: left;
 }
 
-h6 {
+h3 {
 	color: #0080A5;
 	text-align: left;
 }
 
 div.left {
+	position: absolute;
+    right: 0px;
+    width: 300px;
+    background-color: #00BDB4;
+}
 
+div.right {
+	position: absolute;
+    left: 0px;
+    width: 300px;
+    background-color: #00BDB4;
+}
+
+div.top {
+	background-color: #035480;
+}
+
+footer {
+	color: #ffffff;
+	background-color: #035480;
+	text-align: center;
 }
