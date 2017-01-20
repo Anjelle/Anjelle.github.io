@@ -1,0 +1,25 @@
+img {
+	display: block;
+    margin: auto;
+    width: 50%;
+}
+
+header {
+	color: #ffffff;
+	background-color: #035480;
+	text-align: center;
+}
+
+p {
+	color: black;
+	text-align: left;
+}
+
+h6 {
+	color: #0080A5;
+	text-align: left;
+}
+
+div.left {
+
+}
