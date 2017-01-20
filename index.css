@@ -5,12 +5,6 @@ img {
     height: 10%;
 }
 
-header {
-	color: #035480;
-	text-align: center;
-	letter-spacing: 3px;
-}
-
 p {
 	color: white;
 	text-align: left;
@@ -22,25 +16,25 @@ h3 {
 }
 
 h1 {
-	color: white;
-	text-align: center;				
+	color: #035480;
+	text-align: center;
+	letter-spacing: 3px;			
 }
 
 h2 {
-	color: #0080A5;
-	text-align: left;
+	color: white;
+	text-align: center;	
 }
 
-div.left {
+.leftside {
 	float: left;
-	right: ;
     margin: 5%;
     padding: 5%;
     width: 20%;
     background-color: #0095BD;
 }
 
-div.right {
+.rightside {
 	float: right;
     margin: 5%;
     padding: 5%;
@@ -54,7 +48,6 @@ div.top {
 }
 
 footer {
-	position: static;
 	color: #ffffff;
 	background-color: #035480;
 	text-align: center;
