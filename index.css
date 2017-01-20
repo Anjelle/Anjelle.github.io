@@ -26,11 +26,16 @@ h1 {
 	text-align: center;				
 }
 
+h2 {
+	color: #0080A5;
+	text-align: left;
+}
+
 .left {
 	position: absolute;
     margin: 5%;
     padding: 5%;
-    width: 40%;
+    width: 20%;
     background-color: #00BDB4;
 }
 
@@ -38,7 +43,7 @@ h1 {
 	position: absolute;
     margin: 5%;
     padding: 5%;
-    width: 40%;
+    width: 20%;
     background-color: #00BDB4;
 }
 
@@ -48,7 +53,7 @@ h1 {
 }
 
 footer {
-	position: relative;
+	position: static;
 	color: #ffffff;
 	background-color: #035480;
 	text-align: center;
