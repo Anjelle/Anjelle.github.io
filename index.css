@@ -8,6 +8,7 @@ img {
 header {
 	color: #035480;
 	text-align: center;
+	letter-spacing: 3px;
 }
 
 p {
@@ -25,7 +26,7 @@ h1 {
 	text-align: center;				
 }
 
-div.left {
+.left {
 	position: absolute;
     margin: 5%;
     padding: 5%;
@@ -33,7 +34,7 @@ div.left {
     background-color: #00BDB4;
 }
 
-div.right {
+.right {
 	position: absolute;
     margin: 5%;
     padding: 5%;
@@ -41,13 +42,13 @@ div.right {
     background-color: #00BDB4;
 }
 
-div.top {
+.top {
 	background-color: #035480;
 	margin: 10%;
 }
 
 footer {
-	position: absolute;
+	position: relative;
 	color: #ffffff;
 	background-color: #035480;
 	text-align: center;
