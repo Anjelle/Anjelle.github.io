@@ -17,13 +17,13 @@ h3 {
 
 h1 {
 	color: white;
-	text-align: center;				
+	text-align: center;	
+	letter-spacing: 3px;			
 }
 
 h2 {
 	color: #0080A5;
 	text-align: center;
-	letter-spacing: 3px;
 }
 
 .leftside {
@@ -45,7 +45,7 @@ h2 {
 .top {
 	background-color: #035480;
 	padding: 10%;
-	height: 10%;
+	height: 15%;
 }
 
 body {
