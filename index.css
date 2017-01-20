@@ -16,14 +16,14 @@ h3 {
 }
 
 h1 {
-	color: #035480;
-	text-align: center;
-	letter-spacing: 3px;			
+	color: white;
+	text-align: center;				
 }
 
 h2 {
-	color: white;
-	text-align: center;	
+	color: #035480;
+	text-align: center;
+	letter-spacing: 3px;
 }
 
 .leftside {
